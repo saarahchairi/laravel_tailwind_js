@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-
+        @include("partial.nav")
     </header>
     <main>
 
