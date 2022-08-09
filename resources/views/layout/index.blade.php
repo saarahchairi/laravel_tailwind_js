@@ -12,7 +12,7 @@
         @include("partial.nav")
     </header>
     <main>
-
+        @yield("content")
     </main>
     <footer>
         @include("partial.footer")
