@@ -14,12 +14,12 @@
             Welcome
         </a>
     </div>
-    <div>
+    <div class="my-20">
         <p>{{ url('welcome', []) }}</p>
     </div>
-    <div class="text-center py-20 px-10 bg-gray-200">
-        <span>Hello CodingSchool</span>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, magnam?</p>
+    <div class="text-center py-20 px-10 bg-gray-200 mb-40">
+        <span class="text-7xl">Hello CodingSchool</span>
+        <p class="text-xl py-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, magnam?</p>
         <hr>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam, eum.</p>
 

@@ -11,7 +11,7 @@
     <header>
         @include("partial.nav")
     </header>
-    <main>
+    <main class="mx-60">
         @yield("content")
     </main>
     <footer>
